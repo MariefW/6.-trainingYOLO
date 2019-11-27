@@ -70,10 +70,8 @@ data/img/DSC02197.JPG
 data/img/DSC02198.JPG
 data/img/DSC02199.JPG
 data/img/DSC02200.JPG
-data/img/DSC02201.JPG
 data/img/DSC02202.JPG
 data/img/DSC02203.JPG
-data/img/DSC02204.JPG
 data/img/IMG_20190814_115143.jpg
 data/img/IMG_20190814_115144.jpg
 data/img/IMG_20190814_115145.jpg
@@ -297,12 +295,6 @@ data/img/IMG_9922.JPG
 data/img/IMG_9939.JPG
 data/img/WhatsApp Image 2019-04-08 at 10.30.41.jpeg
 data/img/WhatsApp Image 2019-04-08 at 10.30.45.jpeg
-data/img/WhatsApp Image 2019-04-08 at 11.41.00.jpeg
-data/img/WhatsApp Image 2019-04-08 at 11.41.19.jpeg
-data/img/WhatsApp Image 2019-04-08 at 11.41.30.jpeg
-data/img/WhatsApp Image 2019-04-08 at 11.41.35.jpeg
-data/img/WhatsApp Image 2019-04-08 at 11.41.41.jpeg
-data/img/WhatsApp Image 2019-04-08 at 11.41.45.jpeg
 data/img/c_1.jpg
 data/img/c_2.jpg
 data/img/c_3.jpg
@@ -335,6 +327,10 @@ data/img/image17.jpeg
 data/img/image18.jpeg
 data/img/image19.jpeg
 data/img/image2.jpeg
+data/img/image20.jpeg
+data/img/image21.jpeg
+data/img/image22.jpeg
+data/img/image23.jpeg
 data/img/image24.jpeg
 data/img/image25.jpeg
 data/img/image26.jpeg
@@ -375,7 +371,3 @@ data/img/larva_83.jpg
 data/img/larva_84.jpg
 data/img/larva_85.jpg
 data/img/larva_86.jpg
-data/img/image20.jpeg
-data/img/image21.jpeg
-data/img/image22.jpeg
-data/img/image23.jpeg
